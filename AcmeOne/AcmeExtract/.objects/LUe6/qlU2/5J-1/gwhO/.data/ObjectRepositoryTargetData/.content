@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OJkcf81y6kixjxshAsrsJg" Reference="RvMITt4C1kWp4hgHlcqhFg/gwhOj-YpxUWbjkiWE647iw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rottentomatoes.com/browse/tv_series_browse/sort:popular" CVScreenId="18324989-1047-43d5-92bd-1add539b3dbe" DesignTimeRectangle="291, 893, 202, 17" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl css-selector='body&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;tile-dynamic' parentid='main-page-content' tag='TILE-DYNAMIC' idx='{0}' /&gt;&lt;webctrl class='smaller' parentid='main-page-content' tag='SPAN' /&gt;&quot;, intIncrementBy1)]" Guid="618fa05a-98b2-42ad-b300-0a3fdce3fe26" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Best TV Shows (October 2025) | Rotten Tomatoes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fd9712ca1b7dcb0710322fb9aa066af3.png" xmlns="">0tGlzopIsWEWCm5wnXbzvlA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="1" Name="intIncrementBy1" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

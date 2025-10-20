@@ -1,0 +1,13 @@
+﻿{
+  "Name": "39%",
+  "Type": "Element",
+  "Id": "WFJ3pQgxh0azzXjj8xs7dA",
+  "Reference": "RvMITt4C1kWp4hgHlcqhFg/WFJ3pQgxh0azzXjj8xs7dA",
+  "ParentRef": "RvMITt4C1kWp4hgHlcqhFg/5J-1n_Vc6kWVe_u1KpA2WQ",
+  "Created": "2025-10-20T17:07:36.6510846Z",
+  "Updated": "2025-10-20T17:07:36.6510846Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

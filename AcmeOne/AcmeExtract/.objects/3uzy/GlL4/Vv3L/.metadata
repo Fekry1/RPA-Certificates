@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Account.txt - Notepad(1)",
+  "Type": "Screen",
+  "Id": "Vv3LQMdHl0yAOUcM-y04qg",
+  "Reference": "RvMITt4C1kWp4hgHlcqhFg/Vv3LQMdHl0yAOUcM-y04qg",
+  "ParentRef": "RvMITt4C1kWp4hgHlcqhFg/GlL4l1FolUKG_ZWXSOezfA",
+  "Created": "2025-10-20T11:26:34.156082Z",
+  "Updated": "2025-10-20T11:26:34.156082Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

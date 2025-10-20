@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X75L_8_W2EaA9mL6lQb9Cw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/chart/top" CVScreenId="68fe0861-a358-407a-ad7f-04170591fe6a" DesignTimeRectangle="323, 486, 25, 20" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;span' parentid='__next' tag='SPAN' idx='1' /&gt;&lt;webctrl class='ipc-rating-star--rating' parentid='__next' tag='SPAN' /&gt;" Guid="6785401d-fcde-44b4-b12a-6ae21c7c697f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IMDb Top 250 movies' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8fae4936a3f7c5b6b832b9223412a724.png" xmlns="">0xbPMwQz9-UmgKMJ0qQslbA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

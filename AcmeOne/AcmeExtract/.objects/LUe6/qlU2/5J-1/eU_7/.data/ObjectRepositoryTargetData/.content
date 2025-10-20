@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qCzJsqmiUUmpLovlTRCYFA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rottentomatoes.com/browse/tv_series_browse/sort:popular" CVScreenId="e1f8b121-ea33-428d-8382-afb319a40af9" DesignTimeRectangle="1387, 905, 156, 52" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='onetrust-accept-btn-handler' tag='BUTTON' /&gt;" Guid="132ce00e-2902-470f-a4ad-dfe5d69f8ffd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Best TV Shows (October 2025) | Rotten Tomatoes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1294b0fdf37614ff11affb34ad23fb9a.png" xmlns="">0PIpDr5bMgUqPYuztv5U8rA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

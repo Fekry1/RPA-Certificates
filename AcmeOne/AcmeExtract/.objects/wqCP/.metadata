@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome IMDb Top 250 movies",
+  "Type": "App",
+  "Id": "wqCPcKx9QUKen3---Wsszw",
+  "Reference": "RvMITt4C1kWp4hgHlcqhFg/wqCPcKx9QUKen3---Wsszw",
+  "Created": "2025-10-20T14:29:38.249855Z",
+  "Updated": "2025-10-20T14:29:38.249855Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

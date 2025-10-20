@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CPersonalشروحاتنهاي…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "FZxxisfH4EWp-VNvvT9k2g",
+  "Reference": "VKIAenXbiEObmGqsFHaLoQ/FZxxisfH4EWp-VNvvT9k2g",
+  "ParentRef": "VKIAenXbiEObmGqsFHaLoQ/DVxE2gCnFUG8PzuFDSPHQw",
+  "Created": "2025-10-17T14:33:07.5493626Z",
+  "Updated": "2025-10-17T14:33:07.5493626Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

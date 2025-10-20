@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ltW6qdJN8k2axAOVDatb7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/title/tt10048342" CVScreenId="28435843-11bc-4b6e-b109-5bff3e513d48" DesignTimeRectangle="1314, 277, 39, 30" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='/10' parentid='__next' tag='SPAN' /&gt;&lt;nav up='1' /&gt;&lt;webctrl aaname='*' parentid='__next' tag='SPAN' idx='1' /&gt;" Guid="be480e0e-0087-46b9-acab-4195a4edc46e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="67baa2ea802c23e7b8f07a3631f76012.png" xmlns="">0-N5zZQALY0OAbGMEuiUmlw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

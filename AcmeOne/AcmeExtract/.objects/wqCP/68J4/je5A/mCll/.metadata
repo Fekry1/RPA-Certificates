@@ -1,0 +1,14 @@
+﻿{
+  "Name": "1994",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mClluvgTxkK0l4aF3jElQw",
+  "Reference": "RvMITt4C1kWp4hgHlcqhFg/mClluvgTxkK0l4aF3jElQw",
+  "ParentRef": "RvMITt4C1kWp4hgHlcqhFg/je5AHW7IjUC6WaO_N1WgjQ",
+  "Created": "2025-10-20T14:36:45.4325278Z",
+  "Updated": "2025-10-20T14:36:45.4325278Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

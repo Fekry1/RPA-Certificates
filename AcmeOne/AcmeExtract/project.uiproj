@@ -1,0 +1,6 @@
+{
+  "Name": "AcmeExtract",
+  "ProjectType": "Process",
+  "Description": "Extract work items information from acme test website ",
+  "MainFile": "MainFlow.xaml"
+}

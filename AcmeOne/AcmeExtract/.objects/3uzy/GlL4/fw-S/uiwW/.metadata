@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Email omarfkeri09@gmai…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "uiwWD5p_XUOCsAzkB_94dA",
+  "Reference": "RvMITt4C1kWp4hgHlcqhFg/uiwWD5p_XUOCsAzkB_94dA",
+  "ParentRef": "RvMITt4C1kWp4hgHlcqhFg/fw-SQQD3GEyBy_ohPlgLdg",
+  "Created": "2025-10-20T11:01:42.7075854Z",
+  "Updated": "2025-10-20T11:01:42.7075854Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

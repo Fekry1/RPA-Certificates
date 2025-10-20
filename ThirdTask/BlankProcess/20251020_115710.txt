@@ -1,0 +1,4 @@
+Temperature: 32
+Humidity: 10%
+Status: Sunny
+------------------------------------------

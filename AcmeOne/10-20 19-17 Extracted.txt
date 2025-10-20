@@ -1,0 +1,165 @@
+107814631 - Generate Yearly Report for Vendor - WI4 - Open - 2017-09-26 - 
+107814659 - Research Client Check Copy - WI2 - Open - 2017-07-13 - 
+107814664 - Research Client Check Copy - WI2 - Open - 2018-03-26 - 
+107814736 - Verify Account Position - WI1 - Open - 2023-06-22 - 
+107814627 - Calculate Client Security Hash - WI5 - Open - 2019-11-22 - 
+107814705 - Research Client Check Copy - WI2 - Open - 2020-11-26 - 107814723 - Verify Account Position - WI1 - Open - 2020-08-20 - 
+107814650 - Process Vendor Invoice - WI3 - Open - 2021-06-13 - 
+107814672 - Research Client Check Copy - WI2 - Open - 2025-09-01 - 
+107814662 - Research Client Check Copy - WI2 - Open - 2017-07-15 - 
+
+
+107814713 - Verify Account Position  WI1 - Open - 2020-05-15 - 
+107814676 - Research Client Check Copy - WI2 - Open - 2023-06-24 - 
+107814717 - Verify Account Position - WI1 - Open - 2018-08-18 - 
+107814714 - Verify Account Position - WI1 - Open - 2021-03-28 - 
+107814731 - Verify Account Position - WI1 - Open - 2021-06-11 - 
+107814704 - Research Client Check Copy - WI2 - Open - 2018-11-02 - 
+07814721 - Verify Account Position - WI1 - Open - 2020-10-27 - 
+107814657 - Process Vendor Invoice - WI3 - Open - 2018-09-16 - 
+107814744 - Verify Account Position - WI1 - Open - 2023-08-17 - 
+107814669 - Research Client Check Copy - WI2 - Open - 2022-08-21 - 
+
+
+107814638 - Generate Yearly Report for Vendor - WI4 - Open - 2018-07-05 - 
+107814698 - Research Client Check Copy - WI2 - Open - 2020-10-29 - 
+107814690 - Research Client Check Copy - WI2 - Open - 2019-10-26 - 
+107814682 - Research Client Check Copy - WI2 - Open - 2024-12-15 - 
+107814738 - Verify Account Position - WI1 - Open - 2020-09-06 - 
+107814670 - Research Client Check Copy - WI2 - Open - 2023-02-01 - 
+107814715 - Verify Account Position - WI1 - Open - 2025-03-05 - 107814648 - Generate Yearly Report for Vendor - WI4 - Open - 2022-08-15 - 
+107814611 - Calculate Client Security Hash - WI5 - Open - 2023-03-09 - 
+107814629 - Calculate Client Security Hash - WI5 - Open - 2023-12-24 - 
+
+
+107814746 - Verify Account Position - WI1 - Open - 2019-02-10 - 
+107814681 - Research Client Check Copy - WI2 - Open  2018-10-26 - 
+107814637 - Generate Yearly Report for Vendor - WI4 - Open - 2019-12-16 - 
+07814748 - Verify Account Position - WI1 - Open - 2025-10-07 - 
+107814618 - Calculate Client Security Hash - WI5 - Open - 2017-03-10 - 
+107814663 - Research Client Check Copy - WI2 - Open - 2023-08-18 - 
+107814651 - Process Vendor Invoice - WI3 - Open - 2017-01-05 - 
+107814632 - Generate Yearly Report for Vendor - WI4 - Open - 2017-06-06 - 
+107814725 - Verify Account Position - WI1 - Open - 2023-01-18 - 
+107814683 - Research Client Check Copy - WI2 - Open - 2021-08-26 - 
+
+
+107814668 - Research Client Check Copy - WI2 - Open - 2023-09-09 - 
+107814706 - Research Client Check Copy - WI2 - Open - 2023-06-30 - 
+107814645 - Generate Yearly Report for Vendor - WI4 - Open - 2018-01-22 - 
+107814745 - Verify Account Position - WI1 - Open - 2022-11-03 - 
+107814621 - Calculate Client Security Hash - WI5 - Open - 2023-11-02 - 
+107814636 - Generate Yearly Report for Vendor - WI4  Open - 2020-03-24 - 
+107814610 - Calculate Client Security Hash - WI5 - Open - 2018-09-30 - 
+107814749 - Verify Account Position - WI1 - Open - 2021-03-22 - 
+107814653 - Process Vendor Invoice - WI3 - Open - 2025-08-10 - 
+107814728 - Verify Account Position - WI1 - Open - 2025-02-22 - 
+
+
+107814649 - Generate Yearly Report for Vendor - WI4 - Open - 2022-07-06 - 
+107814737 - Verify Account Position - WI1 - Open - 2021-12-05 - 
+107814616 - Calculate Client Security Hash - WI5 - Open - 2022-02-26 - 
+107814673 - Research Client Check Copy - WI2 - Open - 2025-04-19 - 
+107814741 - Verify Account Position - WI1 - Open - 2024-11-10 - 
+107814734 - Verify Account Position - WI1 - Open - 2017-02-08 - 
+107814685 - Research Client Check Copy - WI2 - Open - 2023-01-03 - 
+107814739 - Verify Account Position - WI1 - Open - 2020-11-12 - 
+107814718 - Verify Account Position - WI1 - Open - 2022-11-10 - 
+107814646 - Generate Yearly Report for Vendor - WI4 - Open - 2019-08-16 - 
+
+
+107814655 - Process Vendor Invoice - WI3 - Open - 2017-02-09 - 
+107814691 - Research Client Check Copy - WI2 - Open - 2019-02-14 - 
+107814720 - Verify Account Position - WI1 - Open - 2025-01-24 - 
+107814732 - Verify Account Position - WI1 - Open - 2017-07-01 - 
+107814680 - Research Client Check Copy - WI2 - Open - 2017-08-04 - 
+107814688 - Research Client Check Copy - WI2 - Open - 2023-06-12 - 
+107814625 - Calculate Client Security Hash - WI5 - Open - 2020-02-27 - 
+107814699 - Research Client Check Copy - WI2 - Open - 2019-05-02 - 
+107814709 - Verify Account Position - WI1 - Open - 2022-08-08 - 
+107814716 - Verify Account Position - WI1 - Open - 2024-01-23 - 
+
+
+107814686 - Research Client Check Copy - WI2 - Open - 2020-11-21 - 
+107814695 - Research Client Check Copy - WI2 - Open - 2018-11-10 - 
+107814633 - Generate Yearly Report for Vendor - WI4 - Open - 2017-08-17 - 
+107814615 - Calculate Client Security Hash - WI5 - Open - 2017-02-26 - 
+107814740 - Verify Account Position - WI1 - Open - 2024-09-27 - 
+107814634 - Generate Yearly Report for Vendor - WI4 - Open - 2020-06-13 - 
+107814623 - Calculate Client Security Hash - WI5 - Open - 2024-03-11 - 
+107814693 - Research Client Check Copy - WI2 - Open - 2024-12-12 - 
+107814660 - Research Client Check Copy - WI2 - Open - 2019-09-01 - 
+107814614 - Calculate Client Security Hash - WI5 - Open - 2022-12-09 - 
+
+
+107814635 - Generate Yearly Report for Vendor - WI4 - Open - 2020-12-13 - 
+107814689 - Research Client Check Copy - WI2 - Open - 2018-03-22 - 
+107814702 - Research Client Check Copy - WI2 - Open - 2021-11-29 - 
+107814675 - Research Client Check Copy - WI2 - Open - 2024-02-11 - 
+07814700 - Research Client Check Copy - WI2 - Open - 2017-02-26 - 
+107814726 - Verify Account Position - WI1 - Open - 2025-04-10 - 
+107814652 - Process Vendor Invoice - WI3 - Open - 2024-01-26 - 
+107814703 - Research Client Check Copy - WI2 - Open - 2025-08-04 - 
+107814679 - Research Client Check Copy - WI2 - Open - 2024-05-17 - 
+07814710 - Verify Account Position - WI1 - Open - 2023-10-17 - 
+
+
+107814647 - Generate Yearly Report for Vendor - WI4 - Open - 2021-09-06 - 
+107814640 - Generate Yearly Report for Vendor - WI4 - Open - 2022-07-22 - 
+107814722 - Verify Account Position - WI1 - Open - 023-09-04 - 
+107814628 - Calculate Client Security Hash - WI5 - Open - 2017-11-30 - 
+107814624 - Calculate Client Security Hash - WI5 - Open - 2018-11-14 - 
+107814626 - Calculate Client Security Hash - WI5 - Open - 2022-04-20 - 
+107814667 - Research Client Check Copy - WI2 - Open - 2023-12-23 - 
+107814687 - Research Client Check Copy - WI2 - Open - 2023-10-16 - 
+107814696 - Research Client Check Copy - WI2 - Open - 2017-08-16 - 
+107814665 - Research Client Check Copy - WI2 - Open - 2024-11-09 - 
+
+
+107814733 - Verify Account Position - WI1 - Open - 2022-07-24 - 
+107814613 - Calculate Client Security Hash - WI5 - Open - 2025-04-24 - 
+107814697 - Research Client Check Copy - WI2 - Open - 2024-04-25 - 
+107814612 - Calculate Client Security Hash - WI5 - Open - 2025-04-03 - 
+107814639 - Generate Yearly Report for Vendor - WI4 - Open - 2018-03-13 - 
+107814701 - Research Client Check Copy - WI2 - Open - 2017-06-26 - 
+107814747 - Verify Account Position - WI1 - Open - 2018-11-21 - 
+107814742 - Verify Account Position - WI1 - Open - 2023-03-08 - 
+107814727 - Verify Account Position - WI1  Open - 2023-07-06 - 
+107814678 - Research Client Check Copy - WI2 - Open - 2017-06-22 - 
+
+
+107814622 - Calculate Client Security Hash - WI5 - Open - 2017-06-08 - 
+107814643 - Generate Yearly Report for Vendor - WI4 - Open - 2017-04-08 - 
+107814642 - Generate Yearly Report for Vendor - WI4 - Open - 2017-01-15 - 
+107814692 - Research Client Check Copy - WI2 - Open - 2020-01-20 - 
+107814644 - Generate Yearly Report for Vendor - WI4 - Open - 2018-01-13 - 
+107814743 - Verify Account Position - WI1 - Open - 2025-03-26 - 
+107814658 - Research Client Check Copy - WI2 - Open - 2019-06-11 - 
+107814656 - Process Vendor Invoice - WI3 - Open - 2018-10-08 - 
+107814630 - Generate Yearly Report for Vendor - WI4 - Open - 2019-07-28 - 
+107814671 - Research Client Check Copy - WI2 - Open - 2023-09-11 - 
+
+
+107814666 - Research Client Check Copy - WI2 - Open - 2018-08-29 - 
+107814674 - Research Client Check Copy - WI2 - Open - 2023-06-15 - 
+107814641 - Generate Yearly Report for Vendor - WI4 - Open - 2025-09-03 - 
+107814654 - Process Vendor Invoice - WI3 - Open - 2024-10-25 - 
+107814708 - Research Client Check Copy - WI2 - Open - 2018-07-27 - 
+107814724 - Verify Account Position - WI1 - Open - 2023-11-27 - 
+107814711 - Verify Account Position - WI1 - Open - 2017-10-11 - 
+107814661 - Research Client Check Copy - WI2 - Open - 2025-07-16 - 
+107814617 - Calculate Client Security Hash - WI5 - Open - 2025-03-10 - 
+107814684 - Research Client Check Copy - WI2 - Open - 2017-05-20 - 
+
+107814730 - Verify Account Position - WI1 - Open - 2022-01-23 - 
+107814729 - Verify Account Position - WI1 - Open - 2025-09-22 - 
+107814707 - Research Client Check Copy - WI2 - Open - 2018-08-06 - 
+107814712 - Verify Account Position - WI1 - Open - 2022-07-01 - 
+107814719 - Verify Account Position - WI1 - Open - 2022-08-30 - 
+107814694 - Research Client Check Copy - WI2 - Open - 2023-01-19 - 
+107814619 - Calculate Client Security Hash - WI5 - Open - 2017-04-24 - 
+107814620 - Calculate Client Security Hash - WI5 - Open - 2021-12-17 - 
+107814677 - Research Client Check Copy - WI2 - Open - 2024-01-07 - 
+107814735 - Verify Account Position - WI1 - Open - 2017-05-12 - 
+
+

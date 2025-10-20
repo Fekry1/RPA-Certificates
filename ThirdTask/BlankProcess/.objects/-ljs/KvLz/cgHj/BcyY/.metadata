@@ -1,0 +1,14 @@
+﻿{
+  "Name": "The Queen's Gambit",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "BcyYGVi90kCQP68oMImxtg",
+  "Reference": "jeE9iW77JEmyGcXscXbU4g/BcyYGVi90kCQP68oMImxtg",
+  "ParentRef": "jeE9iW77JEmyGcXscXbU4g/cgHjt1SAfEWnQJwrtkhl9g",
+  "Created": "2025-10-18T17:22:22.9782789Z",
+  "Updated": "2025-10-18T17:22:22.9782789Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t3KMO-pqZU6k5lqlkVSs3g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/title/tt10048342" CVScreenId="03844a2c-d616-4705-87d2-2cf206caf3f4" DesignTimeRectangle="190, 378, 116, 25" ElementType="ListItem" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='presentation' isleaf='1' tag='LI' /&gt;" Guid="cfdc1e88-f3f9-461b-922f-b137430883a9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Queen&amp;apos;s Gambit (TV Mini Series 2020) - IMDb' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4c3b35429fc7d7e795a285ca4311bed7.png" xmlns="">0ppM26tsII02tmmG213aUvA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

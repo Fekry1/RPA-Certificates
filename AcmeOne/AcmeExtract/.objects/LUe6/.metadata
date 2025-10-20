@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Best TV Shows (October 2025)  Rotten Tomatoes",
+  "Type": "App",
+  "Id": "LUe6er523UW0DPrNG2CHMQ",
+  "Reference": "RvMITt4C1kWp4hgHlcqhFg/LUe6er523UW0DPrNG2CHMQ",
+  "Created": "2025-10-20T16:51:51.4463672Z",
+  "Updated": "2025-10-20T16:51:51.4463672Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+Movie Name: Monster
+Movie Tomatometer:39%
+Movie Popcornmeter:64%
+Latest Episode: Oct 03
+
+Movie Name: The Chair Company
+Movie Tomatometer: 100%
+Movie Popcornmeter:84%
+Latest Episode: Oct 19
+
+Movie Name: Boots
+Movie Tomatometer:93%
+Movie Popcornmeter: 90%
+Latest Episode: Oct 09
+

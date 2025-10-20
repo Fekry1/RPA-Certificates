@@ -1,0 +1,14 @@
+﻿{
+  "Name": "2h 22m",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "qsjqHyVoM0arYnjg3iEKSg",
+  "Reference": "RvMITt4C1kWp4hgHlcqhFg/qsjqHyVoM0arYnjg3iEKSg",
+  "ParentRef": "RvMITt4C1kWp4hgHlcqhFg/je5AHW7IjUC6WaO_N1WgjQ",
+  "Created": "2025-10-20T14:50:24.4310674Z",
+  "Updated": "2025-10-20T14:50:24.4310674Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7j-R5wIdGkiGLWB1qWuFSA" Reference="RvMITt4C1kWp4hgHlcqhFg/WFJ3pQgxh0azzXjj8xs7dA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rottentomatoes.com/browse/tv_series_browse/sort:popular" CVScreenId="bbedb69d-1338-4e6f-8c09-9e6cae42b3ac" DesignTimeRectangle="313, 839, 43, 24" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='*' css-selector='body&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;tile-dynamic&amp;gt;a&amp;gt;score-pairs-deprecated' parentid='main-page-content' tag='SCORE-PAIRS-DEPRECATED' idx='{0}' /&gt;&lt;webctrl aaname='*' parentid='main-page-content' tag='RT-TEXT' /&gt;&quot;, intIncrementBy1)]" Guid="1df6c201-9656-43a6-95e2-dcabef373426" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Best TV Shows (October 2025) | Rotten Tomatoes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="62c3e0dbf7e8007f90853442f048b0b4.png" xmlns="">0gZRtRwunSU60tOlk09VATQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="1" Name="intIncrementBy1" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

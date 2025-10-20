@@ -1,0 +1,14 @@
+﻿{
+  "Name": "TEXTAREA APjFqb",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "BrfEiFkyH0O17jHDdD-7gQ",
+  "Reference": "VKIAenXbiEObmGqsFHaLoQ/BrfEiFkyH0O17jHDdD-7gQ",
+  "ParentRef": "VKIAenXbiEObmGqsFHaLoQ/HDOYJEqYTUWcPyk5c0gcdA",
+  "Created": "2025-10-17T13:41:08.0799599Z",
+  "Updated": "2025-10-17T13:41:08.0799599Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
