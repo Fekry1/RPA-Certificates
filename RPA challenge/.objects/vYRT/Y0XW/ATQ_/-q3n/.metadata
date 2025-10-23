@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT FAYtO",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "-q3nqMOCNEGvf8p00mGc6Q",
+  "Reference": "HLCSiA1fC0GeJzMH8XDzQQ/-q3nqMOCNEGvf8p00mGc6Q",
+  "ParentRef": "HLCSiA1fC0GeJzMH8XDzQQ/ATQ_Ldi0wEGF8mfYFKFyvQ",
+  "Created": "2025-10-23T16:58:46.0145792Z",
+  "Updated": "2025-10-23T16:58:46.0145792Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

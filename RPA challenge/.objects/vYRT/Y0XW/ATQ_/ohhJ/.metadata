@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT 4K3YK",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ohhJVOMRnEKped54mf6WMA",
+  "Reference": "HLCSiA1fC0GeJzMH8XDzQQ/ohhJVOMRnEKped54mf6WMA",
+  "ParentRef": "HLCSiA1fC0GeJzMH8XDzQQ/ATQ_Ldi0wEGF8mfYFKFyvQ",
+  "Created": "2025-10-23T17:11:44.9378444Z",
+  "Updated": "2025-10-23T17:11:44.9378444Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

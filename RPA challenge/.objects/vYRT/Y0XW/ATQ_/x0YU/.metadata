@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT N0dd3",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "x0YUVp_r7UyNPdot-03xLA",
+  "Reference": "HLCSiA1fC0GeJzMH8XDzQQ/x0YUVp_r7UyNPdot-03xLA",
+  "ParentRef": "HLCSiA1fC0GeJzMH8XDzQQ/ATQ_Ldi0wEGF8mfYFKFyvQ",
+  "Created": "2025-10-23T17:15:15.0127386Z",
+  "Updated": "2025-10-23T17:15:15.0127386Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
