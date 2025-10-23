@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="oz0eJXT_kkOzckNWiiW2ng" Reference="HLCSiA1fC0GeJzMH8XDzQQ/SYqpTkJEnE-IGBu4NYyCzw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="CiRRPetR0E2S2FmizUs3fw" Reference="HLCSiA1fC0GeJzMH8XDzQQ/SYqpTkJEnE-IGBu4NYyCzw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="5b08a98f-797e-44cb-9416-ac6edd019a80" DesignTimeRectangle="1029, 572, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelFirstName' /&gt;" Guid="77ad860d-3753-4a56-9a1f-57408e1c3fe9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="999baaea52670481cf360947ff99031b.png" xmlns="">08vxCTITmuUepcFW5OYolSw</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="5b08a98f-797e-44cb-9416-ac6edd019a80" DesignTimeRectangle="623, 383, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelFirstName' /&gt;" Guid="77ad860d-3753-4a56-9a1f-57408e1c3fe9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7f4555c195fb20747bf193b492c2888a.png" xmlns="">0TcAyEMBNSUm1ghIalsd3Bg</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">TypeInto</x:String>
   </ObjectRepositoryTargetData.Data>

@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="OpenRpaChallenge" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:si="clr-namespace:System.IO;assembly=System.Private.CoreLib" xmlns:this="clr-namespace:" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="OpenRpaChallenge" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:s="clr-namespace:System;assembly=System.Private.CoreLib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:this="clr-namespace:" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
     <x:Property Name="in_dtTableSheet" Type="InArgument(sd:DataTable)" />
   </x:Members>
@@ -52,6 +52,7 @@
       <x:String>UiPath.UIAutomationNext.Contracts</x:String>
       <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
       <x:String>System.Numerics</x:String>
+      <x:String>System.ServiceProcess</x:String>
     </sco:Collection>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
@@ -114,9 +115,11 @@
       <AssemblyReference>System.Collections</AssemblyReference>
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
       <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
+      <AssemblyReference>System.ServiceProcess.ServiceController</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="OpenRpaChallenge" sap:VirtualizedContainerService.HintSize="786.8000000000001,4121.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="OpenRpaChallenge" sap:VirtualizedContainerService.HintSize="786.8000000000001,4513.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:TimeSpan" Default="00:00:05" Name="tsTimeInterval" />
       <Variable x:TypeArguments="x:Int32" Default="[3]" Name="intAttempNum" />
@@ -126,7 +129,10 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap2010:Annotation.AnnotationText="Description&#xD;&#xA;Precondition: Read excel done successfully&#xD;&#xA;Postcondition: Data extracted and typed into the web-site successfully&#xD;&#xA;In-arguments: in_dtTableSheet&#xD;&#xA;Out-arguments: " DisplayName="Go into RPA challenge" sap:VirtualizedContainerService.HintSize="622.4,4098.4" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence sap2010:Annotation.AnnotationText="Description&#xA;Precondition: Read excel done successfully&#xA;Postcondition: Data extracted and typed into the web-site successfully&#xA;In-arguments: in_dtTableSheet&#xA;Out-arguments: " DisplayName="Go into RPA challenge" sap:VirtualizedContainerService.HintSize="622.4,4490.4" sap2010:WorkflowViewState.IdRef="Sequence_2">
+      <Sequence.Variables>
+        <Variable x:TypeArguments="ui:UiElement" Name="strPageLink" />
+      </Sequence.Variables>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -134,30 +140,30 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
       <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="588.8,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Rpa challenge started&quot;]" />
-      <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="588.8,3581.6" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+      <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="588.8,3973.6" sap2010:WorkflowViewState.IdRef="TryCatch_1">
         <TryCatch.Try>
-          <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="587.2,2976.8" sap2010:WorkflowViewState.IdRef="Sequence_7">
+          <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="587.2,2975.2" sap2010:WorkflowViewState.IdRef="Sequence_7">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <ui:RetryScope LogRetriedExceptions="{x:Null}" RetriedExceptionsLogLevel="{x:Null}" DisplayName="Retry Scope" sap:VirtualizedContainerService.HintSize="553.6,2916.8" sap2010:WorkflowViewState.IdRef="RetryScope_1" NumberOfRetries="[intAttempNum]" RetryInterval="[tsTimeInterval]">
+            <ui:RetryScope LogRetriedExceptions="{x:Null}" RetriedExceptionsLogLevel="{x:Null}" DisplayName="Retry Scope" sap:VirtualizedContainerService.HintSize="553.6,2915.2" sap2010:WorkflowViewState.IdRef="RetryScope_1" NumberOfRetries="[intAttempNum]" RetryInterval="[tsTimeInterval]">
               <ui:RetryScope.ActivityBody>
                 <ActivityAction>
-                  <Sequence DisplayName="Action" sap:VirtualizedContainerService.HintSize="552,2719.2" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                  <Sequence DisplayName="Action" sap:VirtualizedContainerService.HintSize="552,2717.6" sap2010:WorkflowViewState.IdRef="Sequence_6">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Chrome Rpa Challenge" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="518.4,2659.2" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="124e773f-cbcf-45e0-add5-69a9ad8a7b20" Version="V2">
+                    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Chrome Rpa Challenge" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="518.4,2657.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="124e773f-cbcf-45e0-add5-69a9ad8a7b20" Version="V2">
                       <uix:NApplicationCard.Body>
                         <ActivityAction x:TypeArguments="x:Object">
                           <ActivityAction.Argument>
                             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
                           </ActivityAction.Argument>
-                          <Sequence DisplayName="Click to start RPA challenge" sap:VirtualizedContainerService.HintSize="484.8,2419.2" sap2010:WorkflowViewState.IdRef="Sequence_3">
+                          <Sequence DisplayName="Click to start RPA challenge" sap:VirtualizedContainerService.HintSize="484.8,2417.6" sap2010:WorkflowViewState.IdRef="Sequence_3">
                             <sap:WorkflowViewStateService.ViewState>
                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -180,12 +186,12 @@
                                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                       </scg:Dictionary>
                                     </sap:WorkflowViewStateService.ViewState>
-                                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'first name'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250.4" sap2010:WorkflowViewState.IdRef="NTypeInto_9" InteractionMode="SameAsCard" ScopeIdentifier="124e773f-cbcf-45e0-add5-69a9ad8a7b20" Text="[CurrentRow(&quot;First Name&quot;).ToString]" Version="V5">
+                                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'first name'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250.4" sap2010:WorkflowViewState.IdRef="NTypeInto_9" InteractionMode="SameAsCard" Text="[CurrentRow(&quot;First Name&quot;).ToString]" Version="V5">
                                       <uix:NTypeInto.Target>
-                                        <uix:TargetAnchorable BrowserURL="rpachallenge.com" CVScreenId="5b08a98f-797e-44cb-9416-ac6edd019a80" ContentHash="oz0eJXT_kkOzckNWiiW2ng" DesignTimeRectangle="1029, 572, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelFirstName' /&gt;" Guid="77ad860d-3753-4a56-9a1f-57408e1c3fe9" InformativeScreenshot="999baaea52670481cf360947ff99031b.png" Reference="HLCSiA1fC0GeJzMH8XDzQQ/SYqpTkJEnE-IGBu4NYyCzw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+                                        <uix:TargetAnchorable BrowserURL="rpachallenge.com" CVScreenId="5b08a98f-797e-44cb-9416-ac6edd019a80" ContentHash="CiRRPetR0E2S2FmizUs3fw" DesignTimeRectangle="623, 383, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelFirstName' /&gt;" Guid="77ad860d-3753-4a56-9a1f-57408e1c3fe9" InformativeScreenshot="7f4555c195fb20747bf193b492c2888a.png" Reference="HLCSiA1fC0GeJzMH8XDzQQ/SYqpTkJEnE-IGBu4NYyCzw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                                       </uix:NTypeInto.Target>
                                     </uix:NTypeInto>
-                                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'last name'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250.4" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="SameAsCard" ScopeIdentifier="124e773f-cbcf-45e0-add5-69a9ad8a7b20" Text="[CurrentRow(&quot;Last Name&quot;).ToString]" Version="V5">
+                                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'last name'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250.4" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="SameAsCard" ScopeIdentifier="124e773f-cbcf-45e0-add5-69a9ad8a7b20" Text="[CurrentRow(&quot;Last Name &quot;).ToString]" Version="V5">
                                       <uix:NTypeInto.Target>
                                         <uix:TargetAnchorable BrowserURL="rpachallenge.com" CVScreenId="aa119e38-e78a-4101-a22f-a541a5e92c54" ContentHash="4iRk9vpiXEuIZaJFUAKdqA" DesignTimeRectangle="623, 571, 784, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelLastName' /&gt;" Guid="6425a2d9-40ce-40fa-b8b2-101d084556de" InformativeScreenshot="0679f64c4d939d2cb994b21f27f9c6f6.png" Reference="HLCSiA1fC0GeJzMH8XDzQQ/-q3nqMOCNEGvf8p00mGc6Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                                       </uix:NTypeInto.Target>
@@ -241,10 +247,10 @@
           </Sequence>
         </TryCatch.Try>
         <TryCatch.Catches>
-          <Catch x:TypeArguments="si:IOException" sap2010:WorkflowViewState.IdRef="Catch`1_2">
-            <ActivityAction x:TypeArguments="si:IOException">
+          <Catch x:TypeArguments="ui:SelectorNotFoundException" sap2010:WorkflowViewState.IdRef="Catch`1_4">
+            <ActivityAction x:TypeArguments="ui:SelectorNotFoundException">
               <ActivityAction.Argument>
-                <DelegateInArgument x:TypeArguments="si:IOException" Name="exception" />
+                <DelegateInArgument x:TypeArguments="ui:SelectorNotFoundException" Name="exception" />
               </ActivityAction.Argument>
               <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="587.2,348" sap2010:WorkflowViewState.IdRef="Sequence_8">
                 <sap:WorkflowViewStateService.ViewState>
@@ -252,8 +258,24 @@
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="553.6,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Fatal" Message="[&quot;Type into field error&quot;]" />
-                <Throw Exception="[New Exception(&quot;Type into field error&quot;)]" sap:VirtualizedContainerService.HintSize="553.6,113.6" sap2010:WorkflowViewState.IdRef="Throw_1" />
+                <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="553.6,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Error" Message="[&quot;Selector not found&quot;]" />
+                <Throw Exception="[New Exception(&quot;Selector not found&quot;)]" sap:VirtualizedContainerService.HintSize="553.6,113.6" sap2010:WorkflowViewState.IdRef="Throw_1" />
+              </Sequence>
+            </ActivityAction>
+          </Catch>
+          <Catch x:TypeArguments="s:TimeoutException" sap2010:WorkflowViewState.IdRef="Catch`1_6">
+            <ActivityAction x:TypeArguments="s:TimeoutException">
+              <ActivityAction.Argument>
+                <DelegateInArgument x:TypeArguments="s:TimeoutException" Name="exception" />
+              </ActivityAction.Argument>
+              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="587.2,348" sap2010:WorkflowViewState.IdRef="Sequence_15">
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  </scg:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
+                <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="553.6,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Error" Message="[&quot;Page loading for long&quot;]" />
+                <Throw Exception="[New Exception(&quot;Page loading for long&quot;)]" sap:VirtualizedContainerService.HintSize="553.6,113.6" sap2010:WorkflowViewState.IdRef="Throw_2" />
               </Sequence>
             </ActivityAction>
           </Catch>
