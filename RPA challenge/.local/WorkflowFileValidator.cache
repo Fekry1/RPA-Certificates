@@ -1,4 +1,6 @@
-Modules/ExtractFromExcel.xaml|638968521152061289
-Main.xaml|638968531464300341
-Modules/DownloadFile.xaml|638968548342432970
-Modules/TypeInRPAchallenge.xaml|638968553183938435
+Modules/ExtractFromExcel.xaml|638969063597580286
+Main.xaml|638969164187459375
+Modules/StartChallenge.xaml|638969181085420801
+Modules/OpenSite.xaml|638969039546948227
+Modules/TypeInRPAchallenge.xaml|638969181662632083
+Modules/DownloadFile.xaml|638969047916329101
