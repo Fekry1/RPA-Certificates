@@ -4,7 +4,128 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "2d91b36f-1be7-498b-b671-455324f25602",
-      "type": "process"
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_intRetryNumber": {
+            "type": "integer",
+            "minimum": -2147483648,
+            "maximum": 2147483647
+          },
+          "in_tsTimeInterval": {
+            "type": "object",
+            "properties": {
+              "Ticks": {
+                "type": "integer",
+                "minimum": -9223372036854775808,
+                "maximum": 9223372036854775807,
+                "readOnly": true
+              },
+              "Days": {
+                "$ref": "#/$defs/integer"
+              },
+              "Hours": {
+                "$ref": "#/$defs/integer"
+              },
+              "Milliseconds": {
+                "$ref": "#/$defs/integer"
+              },
+              "Microseconds": {
+                "$ref": "#/$defs/integer"
+              },
+              "Nanoseconds": {
+                "$ref": "#/$defs/integer"
+              },
+              "Minutes": {
+                "$ref": "#/$defs/integer"
+              },
+              "Seconds": {
+                "$ref": "#/$defs/integer"
+              },
+              "TotalDays": {
+                "$ref": "#/$defs/number"
+              },
+              "TotalHours": {
+                "$ref": "#/$defs/number"
+              },
+              "TotalMilliseconds": {
+                "$ref": "#/$defs/number"
+              },
+              "TotalMicroseconds": {
+                "$ref": "#/$defs/number"
+              },
+              "TotalNanoseconds": {
+                "$ref": "#/$defs/number"
+              },
+              "TotalMinutes": {
+                "$ref": "#/$defs/number"
+              },
+              "TotalSeconds": {
+                "$ref": "#/$defs/number"
+              }
+            },
+            "$defs": {
+              "integer": {
+                "type": "integer",
+                "minimum": -2147483648,
+                "maximum": 2147483647,
+                "readOnly": true
+              },
+              "number": {
+                "type": "number",
+                "minimum": -1.7976931348623157E+308,
+                "maximum": 1.7976931348623157E+308,
+                "readOnly": true
+              }
+            }
+          },
+          "in_strRPAChallengeLink": {
+            "type": "string"
+          },
+          "in_strRow": {
+            "type": "object",
+            "properties": {
+              "RowError": {
+                "type": "string"
+              },
+              "RowState": {
+                "enum": [
+                  "Detached",
+                  "Unchanged",
+                  "Added",
+                  "Deleted",
+                  "Modified"
+                ],
+                "readOnly": true
+              },
+              "Table": {
+                "type": "array",
+                "items": {
+                  "type": "object"
+                },
+                "readOnly": true
+              },
+              "ItemArray": {
+                "type": "array",
+                "items": {
+                  "type": "object"
+                }
+              },
+              "HasErrors": {
+                "type": "boolean",
+                "readOnly": true
+              }
+            }
+          },
+          "in_intDelayTime": {
+            "type": "integer",
+            "minimum": -2147483648,
+            "maximum": 2147483647
+          }
+        },
+        "required": []
+      }
     }
   ]
 }
