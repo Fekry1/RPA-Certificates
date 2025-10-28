@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ACME System 1",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "eEX3Mc9cyUGTlEW8aLu3Hg",
+  "Reference": "nyBUxjdPQEuFA_gGDAYn9A/eEX3Mc9cyUGTlEW8aLu3Hg",
+  "ParentRef": "nyBUxjdPQEuFA_gGDAYn9A/WIIS8HpIUUW7JC0Jv3uqvQ",
+  "Created": "2025-10-25T15:21:48.7202851Z",
+  "Updated": "2025-10-25T15:21:48.7202851Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

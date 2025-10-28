@@ -1,0 +1,6 @@
+{
+  "Name": "Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Extract ACME test work items and filter by WI3",
+  "MainFile": "Main.xaml"
+}

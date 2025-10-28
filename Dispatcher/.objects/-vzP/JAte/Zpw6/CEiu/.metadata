@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Work Items",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "CEiug4-tYECUSgSdwWKG7A",
+  "Reference": "nyBUxjdPQEuFA_gGDAYn9A/CEiug4-tYECUSgSdwWKG7A",
+  "ParentRef": "nyBUxjdPQEuFA_gGDAYn9A/Zpw606Vpq0Om46hxNjcokA",
+  "Created": "2025-10-27T12:14:01.2008839Z",
+  "Updated": "2025-10-27T12:14:01.2008839Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
