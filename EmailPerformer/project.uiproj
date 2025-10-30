@@ -1,0 +1,6 @@
+{
+  "Name": "EmailPerformer",
+  "ProjectType": "Process",
+  "Description": "Send email",
+  "MainFile": "Main.xaml"
+}
