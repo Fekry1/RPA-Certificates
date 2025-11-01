@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RVLBAC04EE-Ul8PaYlw40A" Reference="KIlCLciGjkWhfPpdgVdSGg/T07TnIVpqEakDI4bFzkVZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/107814651" CVScreenId="2a85a5ff-7de1-42ee-b62b-ed54f4f0b860" DesignTimeRectangle="295, 433, 1348, 67" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='newComment' tag='TEXTAREA' /&gt;" Guid="c7bf2c1e-b9fe-40e6-891c-aec1387cd9aa" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0eb8081e62cdc67470cd2e1c2cc7d7d6.png" xmlns="">0SoHsNTTB9EGP0CMdakWbmA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
